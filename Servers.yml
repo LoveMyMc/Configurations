@@ -3,10 +3,6 @@ servers:
     allowed:
         - factions
         - creative
-        - mclove
-        - skyworld
         - lobby
-        - pineapple
-        - cdev
 times:
-    pineapple: 300
+    nc: 300
